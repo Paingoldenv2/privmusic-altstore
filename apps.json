@@ -1,43 +1,37 @@
-﻿{
-    "name":  "PrivMusic",
-    "identifier":  "fr.privahost.music.source",
-    "subtitle":  "La musique des clients PrivaHost",
-    "description":  "PrivMusic, la musique des clients PrivaHost : tes playlists Deezer, Spotify et YouTube Music, tes titres aimÃ©s et tes Ã©coutes, synchronisÃ©s avec ton compte privahost.fr et tes PC.",
-    "iconURL":  "https://raw.githubusercontent.com/Paingoldenv2/privmusic-altstore/main/icon.png",
-    "website":  "https://privahost.fr",
-    "tintColor":  "#7C5CFF",
-    "apps":  [
-                 {
-                     "name":  "PrivMusic",
-                     "bundleIdentifier":  "fr.privahost.music",
-                     "developerName":  "PrivaHost",
-                     "subtitle":  "Toute ta musique, au mÃªme endroit",
-                     "localizedDescription":  "PrivMusic, la musique des clients PrivaHost : tes playlists Deezer, Spotify et YouTube Music, tes titres aimÃ©s et tes Ã©coutes, synchronisÃ©s avec ton compte privahost.fr et tes PC.",
-                     "iconURL":  "https://raw.githubusercontent.com/Paingoldenv2/privmusic-altstore/main/icon.png",
-                     "tintColor":  "#7C5CFF",
-                     "category":  "entertainment",
-                     "versions":  [
-                                      {
-                                          "version":  "1.9.0",
-                                          "buildVersion":  "1.9.0",
-                                          "date":  "2026-11-24",
-                                          "localizedDescription":  "PremiÃ¨re version iOS de PrivMusic.",
-                                          "downloadURL":  "https://github.com/Paingoldenv2/privmusic-altstore/releases/download/v1.9.0/PrivMusic.ipa",
-                                          "size":  6135373,
-                                          "minOSVersion":  "15.0"
-                                      }
-                                  ],
-                     "appPermissions":  {
-                                            "entitlements":  [
-
-                                                             ],
-                                            "privacy":  {
-
-                                                        }
-                                        }
-                 }
-             ],
-    "news":  [
-
-             ]
+{
+  "name": "PrivMusic",
+  "identifier": "fr.privahost.music.source",
+  "subtitle": "La musique des clients PrivaHost",
+  "description": "PrivMusic, la musique des clients PrivaHost : tes playlists Deezer, Spotify et YouTube Music, tes titres aimés et tes écoutes, synchronisés avec ton compte privahost.fr et tes PC.",
+  "iconURL": "https://raw.githubusercontent.com/Paingoldenv2/privmusic-altstore/main/icon.png",
+  "website": "https://privahost.fr",
+  "tintColor": "#7C5CFF",
+  "apps": [
+    {
+      "name": "PrivMusic",
+      "bundleIdentifier": "fr.privahost.music",
+      "developerName": "PrivaHost",
+      "subtitle": "Toute ta musique, au même endroit",
+      "localizedDescription": "PrivMusic, la musique des clients PrivaHost : tes playlists Deezer, Spotify et YouTube Music, tes titres aimés et tes écoutes, synchronisés avec ton compte privahost.fr et tes PC.",
+      "iconURL": "https://raw.githubusercontent.com/Paingoldenv2/privmusic-altstore/main/icon.png",
+      "tintColor": "#7C5CFF",
+      "category": "entertainment",
+      "versions": [
+        {
+          "version": "1.9.0",
+          "buildVersion": "1.9.0",
+          "date": "2026-11-24",
+          "localizedDescription": "Première version iOS de PrivMusic.",
+          "downloadURL": "https://github.com/Paingoldenv2/privmusic-altstore/releases/download/v1.9.0/PrivMusic.ipa",
+          "size": 6135373,
+          "minOSVersion": "15.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ],
+  "news": []
 }

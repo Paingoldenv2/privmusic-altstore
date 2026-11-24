@@ -1,7 +1,9 @@
 ﻿# PrivMusic pour iPhone (source AltStore / SideStore)
 
-Ajouter cette source dans AltStore ou SideStore (onglet *Sources* â†’ **+**) :
+Dans AltStore ou SideStore : onglet **Sources** → **+** → coller ce lien :
 
-`https://raw.githubusercontent.com/Paingoldenv2/privmusic-altstore/main/apps.json`
+```
+https://raw.githubusercontent.com/Paingoldenv2/privmusic-altstore/main/apps.json
+```
 
-puis installer **PrivMusic** et se connecter avec son compte PrivaHost.
+Puis installer **PrivMusic** et se connecter avec son compte PrivaHost.
